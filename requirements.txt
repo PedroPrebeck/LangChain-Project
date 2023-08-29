@@ -1,4 +1,5 @@
 streamlit
+streamlit_chat
 PyPDF2
 openai
 faiss-cpu
